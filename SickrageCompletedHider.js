@@ -68,9 +68,13 @@
 
     var img = document.createElement('img');
     img.src = getButtonIcon();
+    img.width = "50";
+    img.height = "50";
+    img.style.padding = 0;
 
     var aImg = document.createElement("a");
     aImg.href = "";
+    aImg.style.padding = 0;
     aImg.onclick = function() {
         HIDE = !HIDE;
         setCookie(HIDE ? "true" : "false");
@@ -79,9 +83,15 @@
         return false;
     }
 
-    buttonBar.insertBefore(divHide, buttonBar.firstChild);
+    var li = document.createElement("li");
+    li.style.padding = 0;
+    li.style.paddingRight = "10px";
+    li.appendChild(aImg);
+    aImg.appendChild(img);
 
-	// AUTOMATIC UPDATE OF THE PAGE
+    var homeButton = document.getElementById("NAVhome");
+    homeButton.parentElement.insertBefore(li, homeButton);
+
 
     setInterval(function(){
         displayOrHide();
