@@ -5,6 +5,7 @@
 // @description  Hide already completed (progress bar at 100%) tx shows on main page
 // @author       Arus Joshua
 // @match        http://localhost:32145/home/
+// @match        http://localhost:8081/home/
 // @grant        none
 // ==/UserScript==
 
