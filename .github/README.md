@@ -26,10 +26,10 @@ Activated script
 ![Activated script](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/activated.JPG)
 
 Dectivated script in theater mode
-![Dectivated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/deactivated_theater.jpg)
+![Dectivated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/deactivated_theater.JPG)
 
 Activated script in theater mode
-![Activated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/activated_theater.jpg)
+![Activated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/activated_theater.JPG)
 
 
 
