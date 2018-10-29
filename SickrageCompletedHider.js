@@ -4,8 +4,6 @@
 // @version      0.1
 // @description  Hide already completed (progress bar at 100%) tx shows on main page
 // @author       Arus Joshua
-// @match        http://sr.joshuaarus.fr/home/
-// @match        http://sickrage.joshuaarus.fr/home/
 // @match        http://localhost:32145/home/
 // @grant        none
 // ==/UserScript==
