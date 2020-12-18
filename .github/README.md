@@ -19,14 +19,14 @@ It'll keep your last choice in cookies the following way :
 * 1 cookie for the "history" page
 * 1 cookie for the "watch" page
 
-Dectivated script
-![Dectivated script](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/deactivated.JPG)
+Deactivated script
+![Deactivated script](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/deactivated.JPG)
 
 Activated script
 ![Activated script](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/activated.JPG)
 
-Dectivated script in theater mode
-![Dectivated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/deactivated_theater.JPG)
+Deactivated script in theater mode
+![Deactivated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/deactivated_theater.JPG)
 
 Activated script in theater mode
 ![Activated script in theater mode](https://raw.githubusercontent.com/JoshuaArus/UserScripts/master/.github/activated_theater.JPG)
@@ -74,4 +74,15 @@ Remove ads on leboncoin.fr
 
 ---
 
+## YggImgFixer
+
+Fix img display by suppressing the images.weserv.nl proxy in img.src URLs
+
+---
+
+## YggAutoPublishDateSort
+
+Add input in search form to add a default "sort by age" feature
+
+---
 NO EXTERNAL LIBRARY
