@@ -13,7 +13,7 @@
 
     var ENTRY_CLASS_PATTERN = /styles_adListItem.*/g;
     var LOC_PATTERN = /([a-zA-Z].*) ([0-9]{5})/g;
-    var DEFAULT_HEIGHT = "200";
+    var DEFAULT_HEIGHT = "250";
 
     var createIframe = function(loc, width, height) {
         var src = "https://maps.google.com/maps?q=" + loc.replace(" ", "%20") + "&t=&z=9&ie=UTF8&iwloc=&output=embed";
