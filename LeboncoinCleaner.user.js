@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeboncoinCleaner
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://joshuaarus.fr
+// @version      1.0
 // @author       Jobo
 // @include      https://www.leboncoin.fr/*
 // @grant        none
