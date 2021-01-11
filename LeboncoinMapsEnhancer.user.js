@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeBonCoin Maps Enhancer
 // @namespace    http://joshuaarus.fr/
-// @version      1.0
+// @version      1.1
 // @description  Add google maps Iframe in search view
 // @author       Joshua Arus
 // @match        https://www.leboncoin.fr/recherche?*
