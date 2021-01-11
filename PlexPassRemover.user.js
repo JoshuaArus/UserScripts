@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PlexPassRemover
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://joshuaarus.fr
+// @version      1.0
 // @description  Remove the "get premium" button from plex web theater
 // @author       Arus Joshua
 // @match        https://app.plex.tv/*
